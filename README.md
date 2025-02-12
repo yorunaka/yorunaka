@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align='center'>
-  <img src='https://github.com/yorunaka/yorunaka-site/blob/main/img/logo.gif?raw=true' width='50' height='50'/>
+  <img src='https://github.com/yorunaka/yorunaka-site/blob/main/img/logo.gif?raw=true'/>
 </div>
 
 
