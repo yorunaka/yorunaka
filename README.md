@@ -1,12 +1,11 @@
 ## Hi there 👋
-<div>
-
-
+<div align='center'>
+  <img src='https://github.com/yorunaka/yorunaka-site/blob/main/img/logo.gif?raw=true' width='50' height='50'/>
 </div>
 
 
-## :woman_technologist: About Me :
-I am a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+## :woman_technologist: About Me 
+My name is Vincent and I'm a Front-end Web Developer from Indonesia.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - :telescope: I’m mainly active as a web developer, but I'm also doing Graphic Design as hobby.
 
 - :seedling: Exploring AI contents and Researching AI 4fun.
@@ -35,6 +34,8 @@ I am a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yorunaka&theme=dark&background=000000)](https://git.io/streak-stats)
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yorunaka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
